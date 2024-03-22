@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ulkeeren
-- 👀 I’m interested in ...software development
-- 🌱 I’m currently learning ... android development  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... by email
+- 👀 I’m interested in Reinforcement Learning, Quantitative Finance, Convolutional Neural Networks, Machine Learning in general
+- 🌱 I’m currently learning Deep Reinforcement Learning, Risk Management in quantitative strategies, Algorithmic Trading   
+Email: ulkeeren@gmail.com
 
 <!---
 ulkeeren/ulkeeren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
