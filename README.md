@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @ulkeeren
-- 👀 I’m interested in Reinforcement Learning, Quantitative Finance, Convolutional Neural Networks, Machine Learning in general
-- 🌱 I’m currently learning Deep Reinforcement Learning, Risk Management in quantitative strategies, Algorithmic Trading   
-Email: ulkeeren@gmail.com
+# Hi, I'm Ülke Eren Aktaş
 
-<!---
-ulkeeren/ulkeeren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Engineer building **ML, RAG, NLP, and time-series-driven systems**.  
+Currently pursuing an **MSc in Financial Mathematics at METU**.
+
+## What I work on
+- Machine Learning
+- Retrieval-Augmented Generation (RAG)
+- NLP / LLM applications
+- Quantitative research
+- Python-based data systems
+
+## Featured Projects
+- [LogRAG](https://github.com/ulkeeren/Lograg) — RAG-based Apache log analysis with LangChain, OpenAI embeddings, and Pinecone
+- [albumInfoScraper](https://github.com/ulkeeren/albumInfoScraper) — music metadata extraction and lyrics analytics pipeline
+- Plant Disease Recognition with AlexNet — CNN-based image classification course project
+
+## Background
+I enjoy building practical systems that combine data, language, and machine learning — from retrieval pipelines and log analysis to market-data-driven projects and experimental ML workflows.
