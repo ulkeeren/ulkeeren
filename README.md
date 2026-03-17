@@ -1,7 +1,7 @@
 # Hi, I'm Ülke Eren Aktaş
 
-Computer Engineer building **ML, RAG, NLP, and time-series-driven systems**.  
-Currently pursuing an **MSc in Financial Mathematics at METU**.
+Computer Engineer building ML, RAG, NLP, and time-series-driven systems.  
+Currently pursuing an MSc in Financial Mathematics at METU.
 
 ## What I work on
 - Machine Learning
